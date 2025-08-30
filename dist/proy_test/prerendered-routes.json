@@ -1,0 +1,24 @@
+{
+  "routes": [
+    "/",
+    "/about",
+    "/auth",
+    "/auth/forgot-password",
+    "/auth/login",
+    "/auth/register",
+    "/auth/reset-password",
+    "/blog",
+    "/blog/angular-18-novedades-y-mejoras",
+    "/blog/categoria/desarrollo",
+    "/blog/categoria/diseno",
+    "/blog/categoria/programacion",
+    "/blog/categoria/tecnologia",
+    "/blog/categoria/web",
+    "/blog/como-crear-componentes-reutilizables",
+    "/blog/javascript-es2024-nuevas-funcionalidades",
+    "/blog/optimizacion-web-core-vitals",
+    "/blog/search",
+    "/blog/tailwind-css-guia-completa",
+    "/cuenta"
+  ]
+}
